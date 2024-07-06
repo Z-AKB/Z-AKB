@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Z-AKB
+- 👋 Hi, I’m @Zion
 - 👀 I’m interested in ... Web development
 - 🌱 I’m currently learning ... Javascript & Python
 - 💞️ I’m looking to collaborate on ... Web applications
